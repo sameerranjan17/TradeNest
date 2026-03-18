@@ -1,0 +1,53 @@
+-----------------------------------------------------
+1. (1) Building a Stock Trading platform 
+-----------------------------------------------------
+
+
+🎥 Project Demo & walkthrough
+⚙️ Installed basic tools for development
+📝 Explored Project Overview
+📂 Created Codebase & Assets
+⚛️ Set up our React Project with default files & folders
+🧩 Identified Major Components
+🏗️ Structured & developed the Landing Page ✨
+🏠 Built Home Components (Part 1–4)
+🧭 Added Navbar & Footer + “Open Account” section
+🔀 Configured React Router
+ℹ️ Implemented About Component
+◀️ Built LeftSection in Product Component
+▶️ Built RightSection in Product Component
+💰 Implemented Pricing Component
+🛠️ Completed Support Component (Part 1 & 2)
+✅ Landing Page completed!
+
+-----------------------------------------------------
+
+Exploring the Dashboard
+Creating Dashboard Components
+Setup Dashboard Menu
+Add Data to Holdings & Positions
+"Watchlist" Component (Part 1)
+"Watchlist" Component (Part 2)
+"Watchlist" Component (Part 3)
+
+-----------------------------------------------------
+2. (1) Building a Stock Trading platform 
+-----------------------------------------------------
+Setting up MongoDB
+Connect MongoDB with Express (Part a)
+Connect MongoDB with Express (Part b)
+Creating Schemas & Models
+Holdings Starter Data
+Testing API Endpoints
+Fetch Data from Dashboard
+CRUD from the dashboard
+Implement User Authentication
+Plotting Graphs with chart.js
+Exploring stock Markt live APIs
+How does Testing work?
+Unit Testing with JEST
+Deployment on AWS
+
+
+
+
